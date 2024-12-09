@@ -140,7 +140,24 @@ python youtube-onelayers.py
 
 ## 📄 常规响应示例 `profile.md`
 
-（此处保持原英文版本的示例内容）
+你可以在 regularModel.py (formatModel.py)中修改prompt，来让模型使用中文输出。
+
+🤯 Playlist Analysis Complete!
+
+📊 Core Demographics:
+- **Age Range**: Likely 18-35 years
+- **Gender**: Predominantly male
+- **Likely Region**: Asia (with specific interests in China)
+
+🎯 Key Insights:
+- **Primary Interests**: 
+  1. Web Development (including AI tools and frameworks)
+  2. Personal Productivity (like journaling and learning tools)
+  3. Current Affairs & Social Issues
+- **Content Level**: Enthusiast 
+
+......
+
 
 ## 📄 格式化响应示例
 
