@@ -134,9 +134,8 @@ The script will perform the following:
 - **Regular Response**: A plain text profile saved in `profile.md`.
 - **Formatted Response**: A structured and detailed profile saved in `profile.md`.
 
-> **Note:** Replace `path/to/...` with the actual paths to your images.
 
-## 📄 Example `profile.txt`
+## 📄 Regular Response Example `profile.md`
 
 🤯 Playlist Analysis Complete!
 
@@ -166,7 +165,7 @@ The script will perform the following:
 
 ✨ Fun Fact: Your eclectic mix of interests suggests that you might be the go-to person among your friends for tech advice or recommendations on the latest productivity apps! 🧐 We will be glad if we guess right! 🧐
 
-## Example of Formatted Response
+## 📄 Example of Formatted Response
 
 > **Note:** I have already intergrated with the frontend.
 
