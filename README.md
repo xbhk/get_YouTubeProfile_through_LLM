@@ -1,13 +1,20 @@
 
-# YouTube Favorite Analyzer
+# YouTube Favorite Analyzer Backend
 
 ![Main Home](./images/mainHome.png)
+
+## Note:
+
+`This is the backend part of the analyzer without database, so you can easily clone it and run it on your own server.
+
+If you want to add database, help yourself to add it.
+`
 
 ## 📊 YouTube Favorite Analyzer
 
 **YouTube Favorite Analyzer** is a powerful tool that analyzes a YouTube user's favorite playlists to infer their demographics, interests, and characteristics. By leveraging the YouTube API and OpenAI's GPT capabilities, this project provides insightful profiles based on the user's favorite content.
 
-![Youtube Authorization](./images/youtubeAuthorization.png)
+![Youtube Authorization](./images/youtubeAuthorization.png){: .center}
 
 ## 🚀 Features
 
@@ -125,8 +132,6 @@ The script will perform the following:
 - **Regular Response**: A plain text profile saved in `profile.md`.
 - **Formatted Response**: A structured and detailed profile saved in `profile.md`.
 
-![Formatted Response Example](./images/formattedResponse.png)
-
 > **Note:** Replace `path/to/...` with the actual paths to your images.
 
 ## 📄 Example `profile.txt`
@@ -158,6 +163,12 @@ The script will perform the following:
 3. **Innovative Tools and Techniques** - You're drawn to the latest trends and tools that can enhance your productivity or web development skills, pointing to a mindset that values innovation.
 
 ✨ Fun Fact: Your eclectic mix of interests suggests that you might be the go-to person among your friends for tech advice or recommendations on the latest productivity apps! 🧐 We will be glad if we guess right! 🧐
+
+## Example of Formatted Response
+
+> **Note:** I have already intergrated with the frontend.
+
+![Formatted Response Example](./images/formattedResponse.png)
 
 ## 🤝 Contributing
 
