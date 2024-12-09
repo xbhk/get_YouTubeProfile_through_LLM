@@ -64,7 +64,7 @@ async def main():
     #this profiel is in UserProfile format, so you can easily interact with frontend
     #profile = analysis.generate_formatted_profile(all_vedios)
     
-    with open('profile.txt', 'w', encoding='utf-8') as f:
+    with open('profile.md', 'w', encoding='utf-8') as f:
         f.write((str(profile)))
 
 if __name__ == "__main__":

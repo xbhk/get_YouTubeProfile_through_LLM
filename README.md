@@ -1,13 +1,13 @@
 
 # YouTube Favorite Analyzer
 
-![Project Logo](path/to/logo.png)
+![Main Home](./images/mainHome.png)
 
 ## 📊 YouTube Favorite Analyzer
 
 **YouTube Favorite Analyzer** is a powerful tool that analyzes a YouTube user's favorite playlists to infer their demographics, interests, and characteristics. By leveraging the YouTube API and OpenAI's GPT capabilities, this project provides insightful profiles based on the user's favorite content.
 
-![Project Screenshot](path/to/screenshot.png)
+![Youtube Authorization](./images/youtubeAuthorization.png)
 
 ## 🚀 Features
 
@@ -22,8 +22,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-favorite-analyzer.git
-   cd youtube-favorite-analyzer
+   git clone https://github.com/xbhk/get_YouTubeProfile_through_LLM.git
+   cd get_YouTubeProfile_through_LLM
    ```
 
 2. **Create a Virtual Environment**
@@ -95,10 +95,10 @@ OPENAI_API_KEY=your_openai_api_key_here
 ## 📁 Project Structure
 
 ```
-youtube-favorite-analyzer/
+get_YouTubeProfile_through_LLM/
 ├── youtube-onelayers.py
-├── functionOneLayer.py
-├── profile.txt
+├── functionOneLayer
+├── profile.md
 ├── requirements.txt
 ├── secrets-local.json
 ├── .env
@@ -118,20 +118,19 @@ The script will perform the following:
 1. Authenticate with the YouTube API.
 2. Fetch your favorite playlists.
 3. Analyze the playlists to generate a user profile.
-4. Output the profile to `profile.txt`.
+4. Output the profile to `profile.md`.
 
 ### Output
 
-- **Regular Response**: A plain text profile saved in `profile.txt`.
-- **Formatted Response**: A structured and detailed profile saved in `profile.txt`.
+- **Regular Response**: A plain text profile saved in `profile.md`.
+- **Formatted Response**: A structured and detailed profile saved in `profile.md`.
 
-![Formatted Response Example](path/to/formatted-response.png)
+![Formatted Response Example](./images/formattedResponse.png)
 
 > **Note:** Replace `path/to/...` with the actual paths to your images.
 
 ## 📄 Example `profile.txt`
 
-```plaintext
 🤯 Playlist Analysis Complete!
 
 📊 Core Demographics:
@@ -159,11 +158,6 @@ The script will perform the following:
 3. **Innovative Tools and Techniques** - You're drawn to the latest trends and tools that can enhance your productivity or web development skills, pointing to a mindset that values innovation.
 
 ✨ Fun Fact: Your eclectic mix of interests suggests that you might be the go-to person among your friends for tech advice or recommendations on the latest productivity apps! 🧐 We will be glad if we guess right! 🧐
-```
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
@@ -171,6 +165,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## 📞 Contact
 
-For any questions or suggestions, feel free to reach out at [your.email@example.com](mailto:your.email@example.com).
+For any questions or suggestions, feel free to reach out at [shanshuilang0@gmail.com](mailto:shanshuilang0@gmail.com).
 
 
