@@ -140,7 +140,8 @@ python youtube-onelayers.py
 
 ## 📄 常规响应示例 `profile.md`
 
-你可以在 regularModel.py (formatModel.py)中修改prompt，来让模型使用中文输出。
+> **注意：** 你可以在 regularModel.py (formatModel.py)中修改prompt，来让模型使用中文输出。
+
 
 🤯 Playlist Analysis Complete!
 
