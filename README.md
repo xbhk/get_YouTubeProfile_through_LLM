@@ -14,9 +14,9 @@ If you want to add database, help yourself to add it.
 
 **YouTube Favorite Analyzer** is a powerful tool that analyzes a YouTube user's favorite playlists to infer their demographics, interests, and characteristics. By leveraging the YouTube API and OpenAI's GPT capabilities, this project provides insightful profiles based on the user's favorite content.
 
-<div align="center">
-    ![Youtube Authorization](./images/youtubeAuthorization.png)
-</div>
+<p align="center">
+    <img src="./images/youtubeAuthorization.png" alt="Youtube Authorization">
+</p>
 
 ## 🚀 Features
 
