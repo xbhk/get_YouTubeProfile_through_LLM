@@ -7,12 +7,18 @@
 
 ![Main Home](./images/mainHome.png)
 
-## Note:
 
-`This is the backend part of the analyzer without database, so you can easily clone it and run it on your own server.
+## 🎥 Demo
 
-If you want to add database, help yourself to add it.
-`
+You can play with the demo here:
+
+[Playing Demo there](https://youtube.adumblemon.fun/)
+
+## 📝 Note:
+
+*This is the backend part of the analyzer without database, so you can easily clone it and run it on your own server.*
+
+*If you want to add database, help yourself to add it.*
 
 ## 📊 YouTube Favorite Analyzer
 
