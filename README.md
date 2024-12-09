@@ -1,6 +1,10 @@
 
 # YouTube Favorite Analyzer Backend
 
+<p align="right">
+    <a href="README-zh.md">🇨🇳 中文</a> | <a href="README.md">🇬🇧 English</a>
+</p>
+
 ![Main Home](./images/mainHome.png)
 
 ## Note:
